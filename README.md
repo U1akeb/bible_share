@@ -1,17 +1,9 @@
 # bible_share
 
-A new Flutter project.
+<img width="474" height="951" alt="image" src="https://github.com/user-attachments/assets/5ff7c46a-c225-42c4-a1c1-4ebc995b2e5c" />
+<img width="474" height="951" alt="image" src="https://github.com/user-attachments/assets/0ef99de8-dcc1-4d49-8782-3e4a2488436e" />
+<img width="474" height="951" alt="image" src="https://github.com/user-attachments/assets/e5fe981f-a709-4d85-be8a-1a175c1f3d0c" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
